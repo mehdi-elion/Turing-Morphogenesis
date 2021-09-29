@@ -22,7 +22,8 @@ Using sets of parameters that are given in Murray’s <i>Mathematical Biology</i
 ![tapir](images/tapir.png)
 
 
-Some sets of parameters lead to stable states with obvious patterns even though they don't resemble any well-known animal coating. 
-![pattern_a](images/pattern_a.png)
+### Unknown patterns
+Some sets of parameters lead to stable states with obvious patterns even though they don't resemble any well-known animal coating.<br>
 
+![pattern_a](images/pattern_a.png)
 ![pattern_b](images/pattern_b.png)
